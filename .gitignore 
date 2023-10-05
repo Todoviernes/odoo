@@ -1,0 +1,4 @@
+odoo_pg_pass
+*.log
+config/odoo.conf
+odoo_pg_pass
