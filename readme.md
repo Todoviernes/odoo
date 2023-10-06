@@ -10,7 +10,7 @@ This project provides a Docker Compose setup to deploy Odoo 16.0 with a PostgreS
 
 ## Setup & Deployment
 
-1. **Clone the Repository**
+1. **Clone the Repository or Fork**
 
     ```bash
     git clone [your-repo-url] my-odoo-project
@@ -68,7 +68,3 @@ docker-compose down
 ## Feedback & Contributions
 
 Feel free to raise issues or provide feedback. Contributions to this project are welcome!
-
----
-
-You can adjust the content above as needed, such as adding more specific details, badges, or other relevant sections to fit the specific needs of your project.
